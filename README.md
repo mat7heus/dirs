@@ -10,7 +10,7 @@
 ## Exemplo de uso
 
 ```
-$ python dirs.py -u https://example.com -w wordlist.txt
+$ python dirs.py -u https://example.com -w wordlist.txt --mode all
 
 [dirs] Alvo   : https://example.com
 [dirs] Wordlist: wordlist.txt (4729 entradas)
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ## Quick Start
 
 ```bash
-python dirs.py -u <URL> -w <WORDLIST>
+python dirs.py -u <URL> -w <WORDLIST> --mode <MODO DE BUSCA>
 ```
 
 ---
