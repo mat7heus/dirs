@@ -1,4 +1,8 @@
-# Olá, este é o dirs
+<p align="center">
+  <img src="images/dirs-wallpaper.png" alt="dirs">
+</p>
+
+# Olá, este é o dirs!
 > O dirs é uma ferramenta focada em enumeração de diretórios e subdiretórios na web a partir de listas de palavras. O projeto permite identificar caminhos válidos em aplicações web de forma rápida e eficiente, utilizando buscas automatizadas baseadas em wordlists customizadas.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python&logoColor=white)
